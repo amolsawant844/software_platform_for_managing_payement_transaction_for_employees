@@ -1,0 +1,118 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background :#efefef;
+    background-size: cover;
+    font-size: 16px;
+    color: #777;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-position: center;
+    font-family:sans-serif;
+}
+.btn
+{
+    align-self: center;
+    margin-bottom: 28px; 
+    width: 300px;
+    height: 32px;
+    background: #718093;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    transition: 0.2s ease;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+h1
+{
+    border-bottom: 2px solid #718093;
+    margin-bottom: 50px;
+    color: #718093;
+    /*padding:13px 0;float:left;*/
+    margin: 0 0 20px 0;
+    font-weight: 300;
+    font-size: 28px;
+}
+
+.login
+{    
+    width: 460px;
+    height: 460px;
+    background:white;
+    margin: 150 auto;
+    transition: all 2s ease-in-out;
+    border-radius: none;
+    border: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+form
+{   
+    padding-top: 30px;
+    width=500px;
+    transition:all 2s ease-in-out;
+    color: #718093;
+    border-bottom: 3px;
+}
+.formc
+{
+    width: 200px;
+    outline:none;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border-color: #d1d8e0;
+    text-decoration-color: papayawhip;
+    border-radius: 30px;
+    text-align: left;
+}
+.forget
+{
+    position: relative;
+}
+.formsub
+{
+    margin-bottom: 28px;
+    width: 120px;
+    height: 32px;
+    background: #f44336;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+    cursor: pointer;
+    border-radius: 30px;
+}
+.formsub:hover,
+.formsub:focus
+{
+    background: #FF4500;
+    transition: 0.2s ease;
+}
+
+
+/*nav ul 
+{
+    list-style: circle;
+    float:left;
+    color:red;
+    text-align: left;
+}
+nav ul a
+{
+    text-decoration: underline;
+    display: block;
+    float:left;
+    padding: 5px 15px;
+    color: red;
+    text-align: right;
+}*/
